@@ -1,2 +1,2 @@
-# aws-ec2-filesystems
-Deep dive on AWS EC2 filesystems, data storage, and disaster recovery.
+# amazon-ec2-filesystems
+Deep dive on EC2 filesystems, data storage, and disaster recovery. 
